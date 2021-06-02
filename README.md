@@ -23,7 +23,8 @@ I am __Richard Tay Jian Pei__, aviation is in my blood!
 [Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
-[Featured](#featured) <br> 
+[Featured](#featured) <br>
+[Hobbies](#Hobbies) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,5 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+##### Hobbies
