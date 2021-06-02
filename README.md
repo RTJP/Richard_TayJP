@@ -31,9 +31,9 @@ I am __Richard Tay Jian Pei__, aviation is in my blood!
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### Scoot Tigerair
+Pilot Cadet<br>
+Jan 2020 to Present: 1 year 5 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
